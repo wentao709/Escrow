@@ -2,15 +2,6 @@
 
 This is an Escrow Dapp built with [Hardhat](https://hardhat.org/).
 
-## Project Layout
-
-There are three top-level folders:
-
-1. `/app` - contains the front-end application
-2. `/contracts` - contains the solidity contract
-3. `/server` - contains the server that stores the deployed smart contracts
-4. `/tests` - contains tests for the solidity contract
-
 ## Demo
 
 This is an image of the page when is active
